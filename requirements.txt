@@ -1,0 +1,5 @@
+requests
+flask
+twilio
+flask_sqlalchemy
+psycopg2-binary
